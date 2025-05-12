@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-qdrant
+qdrant-client
+pydantic
+pypdf
+python-dotenv
